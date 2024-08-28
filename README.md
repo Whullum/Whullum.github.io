@@ -1,9 +1,9 @@
 # Data Analyst
 
 ## Education
-- Rochester Institute of Technology | BS Individualised Study: Audio Engineering and Computer Programming (2022) | magna cum laude
-- Google Data Analytics Professional Certificate (2024)
-- Google IT Automation with Python Professional Certificate (2024)
+- Rochester Institute of Technology _B.S. Individualised Study: Audio Engineering and Computer Programming (2022)_
+- Google Data Analytics Professional Certificate _(2024)_
+- Google IT Automation with Python Professional Certificate _(2024)_
 
 ## Projects
 Projects go here
